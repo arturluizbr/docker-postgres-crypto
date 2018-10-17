@@ -1,4 +1,4 @@
-FROM postgres
+FROM postgres:9.4
 LABEL maintainer.name="Artur Oliveira" \
       maintainer.email="artur.oliveira@ufca.edu.br"
 
